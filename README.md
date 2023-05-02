@@ -2,5 +2,8 @@
 This repo contains the code used to solve the FrozenLake[V1] problem using Dynamic Programming & Every-Visit Monte Carlo
 
 # Dynamic Programming
-# Agent Training
+### Agent Training
 ![alt text](https://github.com/kwquan/farama-FrozenLake/blob/main/agent_training.png)
+
+### Agent Control
+![alt text](https://github.com/kwquan/farama-FrozenLake/blob/main/agent_control.png)
